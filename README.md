@@ -1,11 +1,3 @@
-```markdown
-# ☀️ Solar Power Plant Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.12.0-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-An interactive web application for analyzing and visualizing solar power plant data. This tool provides insights into power output, classification of solar conditions, and custom data exploration capabilities.
 
 ## 🚀 Features
 
